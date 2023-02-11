@@ -69,7 +69,7 @@
 
 <summary><b>⚡ Recent GitHub Activity</b></summary>
 <br/>
-   <a href="https://github.com/sudhanshuraj4259"><img alt="Sudhanshu's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=sudhanshuraj4259&custom_title=sudhanshu's%20%20Graph&hide_border=true&theme=react-dark" /></a>
+   <a href="https://github.com/sudhanshuraj4259"><img alt="Sudhanshu's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=sudhanshuraj4259&custom_title=Sudhanshu's%20%20Graph&hide_border=true&theme=react-dark" /></a>
   <br/>
 
 <br/>
