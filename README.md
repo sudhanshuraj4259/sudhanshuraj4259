@@ -31,9 +31,7 @@
 
 ## 🔥 Streak Stats
 <br/>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudhanshuraj4259
-&theme=algolia" alt="sudhanshuraj4259
-" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudhanshuraj4259&theme=algolia" alt="sudhanshuraj4259" /></p>
 <br/>
 
 ## :trophy: Git profile Trophies
